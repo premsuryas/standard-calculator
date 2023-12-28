@@ -7,18 +7,22 @@ To design a web application for a standard calculator.
 ## DESIGN STEPS:
 
 ### Step 1:
+start the program
 
 
 ### Step 2:
+use integer values
 
 
 ### Step 3:
+use of variable value
 
 
 ### Step 4:
-
+use a value for simple calculator
 
 ### Step 5:
+end the program
 
 ### Step 6:
 
@@ -29,6 +33,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -127,6 +132,7 @@ width: 145px;
 form input.operator{
 color: #33ffd8;
 }
+```
 
 
 ## OUTPUT:
@@ -134,4 +140,5 @@ color: #33ffd8;
 
 
 ## Result:
+when the simple calculator was created sucessfully
 
